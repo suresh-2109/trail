@@ -1,0 +1,11 @@
+line one
+line 2
+line 3
+line 4
+<<<<<<< HEAD
+line five 
+=======
+line 5
+line 6
+
+>>>>>>> 65bd8d5f4ad0645577439c5d6f7692df57d2024c
